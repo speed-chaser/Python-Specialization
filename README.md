@@ -25,7 +25,7 @@ This exercise focuses on building a basic data structure to store recipe informa
 
 ### Task Steps and Responing:
 
-Data STructure for Individual Recipes(`recipe_1`, to `recipe_5`):
+Data Structure for Individual Recipes(`recipe_1`, to `recipe_5`):
 
 - Structure Used: Dictionary
 - Why: Dictionaries in Python allow for a clear and accessible way to store key-value pairs. Each recipe has attributes like name, cooking time, and ingredients, making dictionaries an ideal choice for structuring this data.
